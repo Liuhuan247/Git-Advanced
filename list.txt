@@ -8,3 +8,4 @@
 8. git clone xxx 后面可以加文件夹名称，克隆并重命名git文件夹名称
 9. 我要看下另外一个人的commit,pull下来是什么鬼东西
 10. feature1分支加的
+11. 这是master加的
